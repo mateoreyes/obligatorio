@@ -1,0 +1,7 @@
+c:\users\teo\source\repos\Obligatorio\Logica\bin\Debug\Logica.exe.config
+c:\users\teo\source\repos\Obligatorio\Logica\bin\Debug\Logica.exe
+c:\users\teo\source\repos\Obligatorio\Logica\bin\Debug\Logica.pdb
+c:\users\teo\source\repos\Obligatorio\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+c:\users\teo\source\repos\Obligatorio\Logica\obj\Debug\Logica.exe
+c:\users\teo\source\repos\Obligatorio\Logica\obj\Debug\Logica.pdb
+c:\users\teo\source\repos\Obligatorio\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
